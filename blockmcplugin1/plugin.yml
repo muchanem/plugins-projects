@@ -1,0 +1,7 @@
+main: com.blockmc.bmcplugin.bmc
+version: 1.8
+name: bmcplugin1
+
+commands:
+  hello:
+    description: Sends player colorfull hello
