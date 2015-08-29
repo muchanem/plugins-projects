@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/muchanem/Desktop/GitHub/plugins-projects/.metadata/.plugins/org.eclipse.jdt.core
+2672834963.index
