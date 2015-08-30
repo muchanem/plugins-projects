@@ -1,5 +1,5 @@
 main: com.blockmc.bmcplugin.bmc
-version: 1.8
+version: 0.3
 name: bmcplugin1
 
 commands:
