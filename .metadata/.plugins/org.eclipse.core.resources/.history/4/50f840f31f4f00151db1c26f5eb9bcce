@@ -1,0 +1,5 @@
+package com.blockmc.bmcplugin.commands;
+
+public class Hello {
+
+}

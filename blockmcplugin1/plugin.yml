@@ -5,3 +5,5 @@ name: bmcplugin1
 commands:
   hello:
     description: Sends player colorfull hello
+  rtp:
+    description: Sends player to location that is set

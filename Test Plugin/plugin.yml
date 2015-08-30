@@ -1,0 +1,3 @@
+main: com.blockmc.plugintest.Firsttest
+version: 1.8
+name: myfirstplugin
